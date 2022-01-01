@@ -12,3 +12,12 @@ Hardware
 | Black angle corner      | 4  | | 
 | 90 degree joining plate | 10 | | 
 | Tee-nuts M5             | 88 | 50x for 90° plates,<br> 8x for angle corner,<br> 30x for printed parts | 
+
+Electronic
+
+| Part     | Quantity | Detail |
+|----------|:--------:|--------|
+| BTT SKR Pico V1.0      | 1  | |
+| Raspberry Pie 4        | 2  | | 
+
+
