@@ -5,7 +5,6 @@ Hardware
 
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
-
 | V-Slot 20x40 331mm      | 2  | |
 | V-Slot 20x40 359mm      | 2  | | 
 | V-Slot 20x40 370mm      | 2  | | 
