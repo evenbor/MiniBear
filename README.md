@@ -1,7 +1,7 @@
 # MiniBear
-*A Bear Mini with Bearmera
-*Buildvolume 160x160x160
-*Added 10mm in x axis and 5mm in y axis to componsate for Bearmera
+A Bear Mini with Bearmera  
+Buildvolume 160x160x160  
+Added 10mm in x axis and 5mm in y axis to componsate for Bearmera  
 
 Hardware
 
