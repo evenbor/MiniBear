@@ -18,6 +18,6 @@ Electronic
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
 | BTT SKR Pico V1.0      | 1  | |
-| Raspberry Pie 4        | 2  | | 
+| Raspberry Pie 4        | 1  | | 
 
 
