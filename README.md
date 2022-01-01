@@ -3,7 +3,7 @@ A Bear Mini with Bearmera
 Buildvolume 160x160x160  
 Added 10mm in x axis and 5mm in y axis to componsate for Bearmera  
 
-Hardware
+## Hardware
 
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
@@ -15,7 +15,7 @@ Hardware
 | 90 degree joining plate | 10 | | 
 | Tee-nuts M5             | 88 | 50x for 90° plates,<br> 8x for angle corner,<br> 30x for printed parts | 
 
-Electronic
+## Electronic
 
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
