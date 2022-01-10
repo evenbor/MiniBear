@@ -14,6 +14,9 @@ Added 10mm in x axis and 5mm in y axis to componsate for Bearmera
 | Black angle corner      | 4  | | 
 | 90 degree joining plate | 10 | | 
 | Tee-nuts M5             | 88 | 50x for 90° plates,<br> 8x for angle corner,<br> 30x for printed parts | 
+| 8mm Smooth rods         | 2  | |
+| 8mm Smooth rods         | 2  | |
+| 8mm Smooth rods         | 2  | |
 
 ## Electronic
 
