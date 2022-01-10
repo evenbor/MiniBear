@@ -21,5 +21,6 @@ Added 10mm in x axis and 5mm in y axis to componsate for Bearmera
 |----------|:--------:|--------|
 | BTT SKR Pico V1.0      | 1  | |
 | Raspberry Pie 4        | 1  | | 
+| Prusa Hemera kit 24v   |    | |
 
 
