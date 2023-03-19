@@ -22,8 +22,7 @@ Componsate for Bearmera
 
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
-| BTT SKR Pico V1.0      | 1  | |
-| Raspberry Pi 4         | 1  | | 
+| BTT Manta        | 1  | | 
 | Prusa Hemera kit 24v   | 1  | |
 | Prusa Mini Heatbed     | 1  | |
 
