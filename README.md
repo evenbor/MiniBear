@@ -1,22 +1,22 @@
 # MiniBear
 A Bear Mini with Bearmera  
 Buildvolume 180x180x180  
-Added 10mm in x axis and 5mm in y axis to componsate for Bearmera  
+Componsate for Bearmera  
 
 ## Hardware
 
 | Part     | Quantity | Detail |
 |----------|:--------:|--------|
-| V-Slot 20x40 286mm      | 2  | |
-| V-Slot 20x40 309mm      | 2  | | 
-| V-Slot 20x40 290mm      | 2  | | 
-| V-Slot 20x40 210mm      | 1  | | 
+| HFSB5-2040-391 V-Slot 20x40 391mm (Y) | 2  | |
+| HFSB5-2040-339 V-Slot 20x40 339mm (Z) | 2  | | 
+| HFSB5-2040-320 V-Slot 20x40 320mm (X) | 2  | | 
+| HFSB5-2040-240 V-Slot 20x40 240mm (X) | 1  | | 
 | Black angle corner      | 4  | | 
 | 90 degree joining plate | 10 | | 
-| Tee-nuts M5             | 88 | 50x for 90° plates,<br> 8x for angle corner,<br> 30x for printed parts | 
-| 8mm Smooth rods         | 2  | |
-| 8mm Smooth rods         | 2  | |
-| 8mm Smooth rods         | 2  | |
+| Tee-nuts M5             | 88 | | 
+| PSFJ8-320 Hard Chrome Precision Linear Rod 320mm (X) | 2  | |
+| PSFJ8-290 Hard Chrome Precision Linear Rod 290mm (Y) | 2  | |
+| PSFU8-300 Hard Chrome Precision Linear Rod 300mm (Z) | 2  | |
 
 ## Electronic
 
