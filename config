@@ -1,4 +1,4 @@
-]include mainsail.cfg]
+[include mainsail.cfg]
 [include macros/*.cfg]
 # This file contains common pin mappings for the BIGTREETECH Manta M5P
 # To use this config, the firmware should be compiled for the
@@ -22,7 +22,7 @@ homing_retract_dist: 0
 
 [stepper_y]
 step_pin: PC8
-dir_pin: PC9
+dir_pin: !PC9
 enable_pin: !PA15
 microsteps: 16
 rotation_distance: 40
@@ -183,7 +183,7 @@ z_positions:    -52, 109
                 221, 109
 points:          -5, 90
                 140, 90
-speed: 150
+speed: 20
 horizontal_move_z: 5
 retries: 10
 retry_tolerance: 0.0050
