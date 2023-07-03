@@ -1,7 +1,6 @@
 # MiniBear
 A Bear Mini with Bearmera  
-Buildvolume 180x180x180  
-Componsate for Bearmera  
+Buildvolume 180x180x180   
 
 ## Hardware
 
